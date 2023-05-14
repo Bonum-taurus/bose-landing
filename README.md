@@ -9,3 +9,4 @@ Describes the benefits of buying the company's products directly. The landing pa
     Sass (SCSS),
     BEM,
     JavaScript.
+4. layout link: https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?type=design&node-id=0-1&t=7qtUx005UfD0dHSI-0    
